@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+
+# 密钥 / 环境变量 — 切勿提交
+.env
+*.env
+config_local.py
+
+# 模型与索引缓存
+models/
+.rag_cache/
+*.faiss
+*.index
+.DS_Store

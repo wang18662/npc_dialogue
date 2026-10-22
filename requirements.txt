@@ -1,0 +1,7 @@
+streamlit
+requests
+# 扩展学习用（做到 RAG / 工具调用那步再装）
+faiss-cpu
+sentence-transformers
+# 国内 HuggingFace 被墙时备用：用魔搭社区下载模型
+modelscope
